@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="341401" started-at="2018-10-17T06:13:33Z" finished-at="2018-10-17T06:19:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="341401" started-at="2018-10-17T06:13:33Z" finished-at="2018-10-17T06:19:14Z">
+      <class name="HotelsWeb.HotelsWebExecution">
+        <test-method status="PASS" signature="clearxcelStatus()[pri:0, instance:HotelsWeb.HotelsWebExecution@475530b9]" name="clearxcelStatus" is-config="true" duration-ms="687" started-at="2018-10-17T11:43:33Z" finished-at="2018-10-17T11:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearxcelStatus -->
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:HotelsWeb.HotelsWebExecution@475530b9]" name="launchbrowser" is-config="true" duration-ms="8623" started-at="2018-10-17T11:43:34Z" finished-at="2018-10-17T11:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="hotelAutomation_Redirections()[pri:0, instance:HotelsWeb.HotelsWebExecution@475530b9]" name="hotelAutomation_Redirections" duration-ms="23376" started-at="2018-10-17T11:43:42Z" finished-at="2018-10-17T11:44:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelAutomation_Redirections -->
+        <test-method status="PASS" signature="closebrows()[pri:0, instance:HotelsWeb.HotelsWebExecution@475530b9]" name="closebrows" is-config="true" duration-ms="3409" started-at="2018-10-17T11:44:06Z" finished-at="2018-10-17T11:44:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrows -->
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:HotelsWeb.HotelsWebExecution@475530b9]" name="launchbrowser" is-config="true" duration-ms="7259" started-at="2018-10-17T11:44:09Z" finished-at="2018-10-17T11:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="hotelAutomation_Hotelsearch_DetailsPage_MetaPrice()[pri:0, instance:HotelsWeb.HotelsWebExecution@475530b9]" name="hotelAutomation_Hotelsearch_DetailsPage_MetaPrice" duration-ms="36453" started-at="2018-10-17T11:44:16Z" finished-at="2018-10-17T11:44:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelAutomation_Hotelsearch_DetailsPage_MetaPrice -->
+        <test-method status="PASS" signature="closebrows()[pri:0, instance:HotelsWeb.HotelsWebExecution@475530b9]" name="closebrows" is-config="true" duration-ms="3977" started-at="2018-10-17T11:44:53Z" finished-at="2018-10-17T11:44:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrows -->
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:HotelsWeb.HotelsWebExecution@475530b9]" name="launchbrowser" is-config="true" duration-ms="10207" started-at="2018-10-17T11:44:57Z" finished-at="2018-10-17T11:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="hotelAutomation_CitySearch_Resultpage_MetaPrice()[pri:0, instance:HotelsWeb.HotelsWebExecution@475530b9]" name="hotelAutomation_CitySearch_Resultpage_MetaPrice" duration-ms="240508" started-at="2018-10-17T11:45:07Z" finished-at="2018-10-17T11:49:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelAutomation_CitySearch_Resultpage_MetaPrice -->
+        <test-method status="PASS" signature="closebrows()[pri:0, instance:HotelsWeb.HotelsWebExecution@475530b9]" name="closebrows" is-config="true" duration-ms="6899" started-at="2018-10-17T11:49:08Z" finished-at="2018-10-17T11:49:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrows -->
+        <test-method status="PASS" signature="executionReport()[pri:0, instance:HotelsWeb.HotelsWebExecution@475530b9]" name="executionReport" is-config="true" duration-ms="0" started-at="2018-10-17T11:49:14Z" finished-at="2018-10-17T11:49:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executionReport -->
+      </class> <!-- HotelsWeb.HotelsWebExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
